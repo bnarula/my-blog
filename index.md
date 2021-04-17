@@ -14,12 +14,12 @@ This is how I was:
 
 ### Now in 2021, 
 I take 2 interviews a week on average to help our recruitment team **hire** good Software Developers. 
-And I meet different types of people I interview. I see their
+And I meet different types of people I interview. I observe their
 - attitude
 - skillset
 - curiousity
 - interests 
 
-If you are looking for help to start your career in IT in India, but haven't been able to get hired on campus placements due to any reason(s), let's start by [Connecting on LinkedIn](https://www.linkedin.com/in/bhavya-narula). Ping me on LinkedIn and I can provide you some bunch of __GYAAN__. Let's have that conversation to get you to kickstart your career. 
+If you are looking for help to start your career in IT in India, but haven't been able to get hired on campus placements, let's start by [Connecting with me on LinkedIn](https://www.linkedin.com/in/bhavya-narula). Ping me on LinkedIn and I can provide you some bunch of _GYAAN_. Let's have that conversation to get you to kickstart your career. [...read more about how can I help you](https://bnarula.github.io/fresher-help/how-can-i-help-read-more)
 
 ## All the Best, Cheers !!
