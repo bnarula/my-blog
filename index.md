@@ -1,6 +1,12 @@
-## Welcome to GitHub Pages
+## Are you still looking for a job as a fresher in IT in India?  2021? 
 
-You can use the [editor on GitHub](https://github.com/bnarula/fresher-help/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am here for your help. I am now working in a well known Software Development company in Bengaluru, India. 
+
+### But back in 2013,
+I had 
+- no campus placement
+- no college brand name
+- only 60% aggregate in BTech
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
