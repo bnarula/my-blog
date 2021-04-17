@@ -13,4 +13,4 @@ permalink: /how-can-i-help-read-more
 - Some of them wants to flaunt their limited knowledge. They will use a lot of jargons they mugged up a day before the interview. It doesn't take me long to entangle them into their own words. As a foundation to those skillsets, you need to understand some important concepts. And by understand I do not mean _passing the exam understand_. A true attempt has to be made to get some very basic understanding of some of the concepts that have revolutionized the whole world. 
 
 Once you agree with my above points and start out on fixing these right at the time you read this, other issues with your placement can be taken care. 
-[... read more to understand the fresher placement struggle.](https://github.com/bnarula/fresher-help/fresher-job-struggle-read-more)
+[... read more to understand the fresher placement struggle.](https://bnarula.github.io/fresher-help/fresher-job-struggle-read-more)
