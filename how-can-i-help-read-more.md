@@ -1,3 +1,9 @@
+---
+layout: post
+title: Blogging Like a Hacker
+permalink: /how-can-i-help-read-more
+---
+
 ## How can I be of any help to you?
 
 > [My LinkedIn Profile](https://www.linkedin.com/in/bhavya-narula/) | 
