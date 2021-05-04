@@ -1,6 +1,6 @@
 ## Are you still looking for a job as a fresher in IT in India?  2021? 
 > [My LinkedIn Profile](https://www.linkedin.com/in/bhavya-narula/) | 
-> [india_fresher_help @ Instagram ](https://www.instagram.com/india_fresher_help/) | 
+> [My Profile @ Instagram ](https://www.instagram.com/maybe_iama_geek_too/) | 
 > [I Work Here](https://www.thoughtworks.com/careers/india)
 
 My name is **Bhavya Narula** and I am here for your help. 
